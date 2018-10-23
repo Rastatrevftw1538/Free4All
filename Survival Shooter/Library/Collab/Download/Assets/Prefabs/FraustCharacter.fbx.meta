@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 1a8061f5dde2c0e40b5f206cfb9be532
+timeCreated: 1534908746
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Fraust_latestfinal_rig:Fraust
+    100002: Fraust_latestfinal_rig:QuickRigCharacter_Head
+    100004: Fraust_latestfinal_rig:QuickRigCharacter_Hips
+    100006: Fraust_latestfinal_rig:QuickRigCharacter_LeftArm
+    100008: Fraust_latestfinal_rig:QuickRigCharacter_LeftFoot
+    100010: Fraust_latestfinal_rig:QuickRigCharacter_LeftForeArm
+    100012: Fraust_latestfinal_rig:QuickRigCharacter_LeftHand
+    100014: Fraust_latestfinal_rig:QuickRigCharacter_LeftLeg
+    100016: Fraust_latestfinal_rig:QuickRigCharacter_LeftShoulder
+    100018: Fraust_latestfinal_rig:QuickRigCharacter_LeftToeBase
+    100020: Fraust_latestfinal_rig:QuickRigCharacter_LeftUpLeg
+    100022: Fraust_latestfinal_rig:QuickRigCharacter_Neck
+    100024: Fraust_latestfinal_rig:QuickRigCharacter_Reference
+    100026: Fraust_latestfinal_rig:QuickRigCharacter_RightArm
+    100028: Fraust_latestfinal_rig:QuickRigCharacter_RightFoot
+    100030: Fraust_latestfinal_rig:QuickRigCharacter_RightForeArm
+    100032: Fraust_latestfinal_rig:QuickRigCharacter_RightHand
+    100034: Fraust_latestfinal_rig:QuickRigCharacter_RightLeg
+    100036: Fraust_latestfinal_rig:QuickRigCharacter_RightShoulder
+    100038: Fraust_latestfinal_rig:QuickRigCharacter_RightToeBase
+    100040: Fraust_latestfinal_rig:QuickRigCharacter_RightUpLeg
+    100042: Fraust_latestfinal_rig:QuickRigCharacter_Spine
+    100044: Fraust_latestfinal_rig:QuickRigCharacter_Spine1
+    100046: Fraust_latestfinal_rig:QuickRigCharacter_Spine2
+    100048: //RootNode
+    400000: Fraust_latestfinal_rig:Fraust
+    400002: Fraust_latestfinal_rig:QuickRigCharacter_Head
+    400004: Fraust_latestfinal_rig:QuickRigCharacter_Hips
+    400006: Fraust_latestfinal_rig:QuickRigCharacter_LeftArm
+    400008: Fraust_latestfinal_rig:QuickRigCharacter_LeftFoot
+    400010: Fraust_latestfinal_rig:QuickRigCharacter_LeftForeArm
+    400012: Fraust_latestfinal_rig:QuickRigCharacter_LeftHand
+    400014: Fraust_latestfinal_rig:QuickRigCharacter_LeftLeg
+    400016: Fraust_latestfinal_rig:QuickRigCharacter_LeftShoulder
+    400018: Fraust_latestfinal_rig:QuickRigCharacter_LeftToeBase
+    400020: Fraust_latestfinal_rig:QuickRigCharacter_LeftUpLeg
+    400022: Fraust_latestfinal_rig:QuickRigCharacter_Neck
+    400024: Fraust_latestfinal_rig:QuickRigCharacter_Reference
+    400026: Fraust_latestfinal_rig:QuickRigCharacter_RightArm
+    400028: Fraust_latestfinal_rig:QuickRigCharacter_RightFoot
+    400030: Fraust_latestfinal_rig:QuickRigCharacter_RightForeArm
+    400032: Fraust_latestfinal_rig:QuickRigCharacter_RightHand
+    400034: Fraust_latestfinal_rig:QuickRigCharacter_RightLeg
+    400036: Fraust_latestfinal_rig:QuickRigCharacter_RightShoulder
+    400038: Fraust_latestfinal_rig:QuickRigCharacter_RightToeBase
+    400040: Fraust_latestfinal_rig:QuickRigCharacter_RightUpLeg
+    400042: Fraust_latestfinal_rig:QuickRigCharacter_Spine
+    400044: Fraust_latestfinal_rig:QuickRigCharacter_Spine1
+    400046: Fraust_latestfinal_rig:QuickRigCharacter_Spine2
+    400048: //RootNode
+    4300000: Fraust_latestfinal_rig:Fraust
+    7400000: FraustCharacter
+    9500000: //RootNode
+    13700000: Fraust_latestfinal_rig:Fraust
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
